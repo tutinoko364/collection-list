@@ -1,0 +1,68 @@
+site_name: collection-list
+theme: readthedocs
+use_directory_urls: false
+extra_css:
+  - css/clock.css
+
+extra_javascript:
+  # <script src="js/clock.js"></script>
+  - js/clock.js
+  - js/load-csv.js
+
+markdown_extensions:
+ - footnotes
+ - extra
+
+nav:
+  - トップ: index.md
+  - リスト:
+    - ゲーム:
+      - ファミコン: game/game-fc.md
+      - スーパーファミコン: game/game-sfc.md
+      - ニンテンドー64: game/game-n64.md
+      - ゲームキューブ: game/game-gc.md
+      - Wii: game/game-wii.md
+      - ゲームボーイ: game/game-gb.md
+      - ゲームボーイアドバンス: game/game-gba.md
+      - ニンテンドーDS: game/game-nds.md
+      - ニンテンドー3DS: game/game-3ds.md
+      - ニンテンドーSwitch: game/game-switch.md
+      - セガmarkIII: game/game-mk3.md
+      - メガドライブ: game/game-md.md
+      - セガサターン: game/game-ss.md
+      - ドリームキャスト: game/game-dc.md
+      - ゲームギア: game/game-gg.md
+      - PCエンジン: game/game-pce.md
+      - プレイステーション: game/game-ps1.md
+      - プレイステーション2: game/game-ps2.md
+      - その他: game/game-etc.md
+    - コミック:
+      - 少年: comic/comic-boys.md
+      - 青年: comic/comic-young.md
+      - 成年: comic/comic-adult.md
+      - 少女: comic/comic-girls.md
+    - ムック・画集:
+      - アニメ: mook/mook-anime.md
+      - ゲーム: mook/mook-game.md
+      - 漫画: mook/mook-comic.md
+      - 競馬: mook/mook-horseracing.md
+      - その他: mook/mook-etc.md
+    - 雑誌:
+      - アニメ: magazine/magazine-anime.md
+      - コミック: magazine/magazine-comic.md
+      - 競馬:
+        - 優駿: magazine/magazine-yushun.md
+        - サラブレ: magazine/magazine-thoroughbred.md
+        - その他: magazine/magazine-horseracing.md
+      - その他: magazine/magazine-etc.md
+    - 技術書:
+      - イラスト: tech/tech-illustration.md
+      - IT: tech/tech-it.md
+    - 小説:
+      - ライトノベル: novel/novel-lightnovel.md
+      - SF: novel/novel-sf.md
+      - その他: novel/novel-etc.md
+    - 同人誌:
+      - 成年: doujinshi/doujinshi-adult.md
+      - 一般: doujinshi/doujinshi-normal.md
+      - 評論: doujinshi/doujinshi-criticism.md
