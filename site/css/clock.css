@@ -1,0 +1,24 @@
+#clock{
+    font: bold 20pt sans;
+    background: #ddf;
+    padding: 10px;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
+th{
+    /* ヘッダ背景塗りつぶし */
+    background: #eee;
+}
+th,td {
+    /* 枠線を1本線指定 */
+    border: solid 1px;
+    width:auto;
+}
+
+table{
+    /* 枠線を1本線指定 */
+    border: solid 1px;
+    border-collapse:  collapse;
+    white-space: nowrap;
+}
