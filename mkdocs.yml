@@ -41,15 +41,19 @@ nav:
       - 青年: comic/comic-young.md
       - 成年: comic/comic-adult.md
       - 少女: comic/comic-girls.md
+      - 大判: comic/comic-ooban.md
     - ムック・画集:
       - アニメ: mook/mook-anime.md
       - ゲーム: mook/mook-game.md
       - 漫画: mook/mook-comic.md
+      - 作家: mook/mook-person.md
       - 競馬: mook/mook-horseracing.md
       - その他: mook/mook-etc.md
     - 雑誌:
       - アニメ: magazine/magazine-anime.md
       - コミック: magazine/magazine-comic.md
+      - ゲーム: magazine/magazine-comic.md
+      - IT: magazine/magazine-it.md
       - 競馬:
         - 優駿: magazine/magazine-yushun.md
         - サラブレ: magazine/magazine-thoroughbred.md
@@ -58,6 +62,7 @@ nav:
     - 技術書:
       - イラスト: tech/tech-illustration.md
       - IT: tech/tech-it.md
+      - 音楽: tech/tech-music.md
     - 小説:
       - ライトノベル: novel/novel-lightnovel.md
       - SF: novel/novel-sf.md
