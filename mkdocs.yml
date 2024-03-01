@@ -52,7 +52,7 @@ nav:
     - 雑誌:
       - アニメ: magazine/magazine-anime.md
       - コミック: magazine/magazine-comic.md
-      - ゲーム: magazine/magazine-comic.md
+      - ゲーム: magazine/magazine-game.md
       - IT: magazine/magazine-it.md
       - 競馬:
         - 優駿: magazine/magazine-yushun.md
