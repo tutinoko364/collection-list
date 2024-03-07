@@ -48,6 +48,7 @@ nav:
       - 漫画: mook/mook-comic.md
       - 作家: mook/mook-person.md
       - 競馬: mook/mook-horseracing.md
+      - 映画パンフレット: mook/mook-moviepamphlet.md
       - その他: mook/mook-etc.md
     - 雑誌:
       - アニメ: magazine/magazine-anime.md
