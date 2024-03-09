@@ -37,6 +37,7 @@
 | ゴティックメード 花の詩女 2022版 | 角川書店 | 2022/11/1 |
 | THE FIRST SLAMDUNK | 東映 | 2022/12/3 |
 | TM NETWORK 40th FANKS inteligence Days | sony | 2022/12/28 |
+| TM NETWORK 40th FANKS inteligence Days ミニブック | sony | 2022/12/28 |
 | シン・仮面ライダー | 東映 | 2023/3/17 |
 | グリッドマンユニバース | 東宝 | 2023/3/24 |
 | ザ・スーパーマリオブラザーズ・ムービー | ユニバーサル | 2023/4/28 |
